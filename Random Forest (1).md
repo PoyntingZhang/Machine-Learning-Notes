@@ -28,7 +28,7 @@ Bagging is a random sampling algorithm. The difference between it and boosting i
 
 # RandomForestClassifier
 
-parameters
+### parameters
 
 1.  n\_estimators : the numbers of the decision trees
 2.  bootstrap: whether sampling with replacement or not, the default value is True
